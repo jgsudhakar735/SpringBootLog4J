@@ -52,6 +52,12 @@ Configuration:
         AppenderRef:
           - ref: LogToConsole
           - ref: LogToControllerFile
+    AsyncLogger:
+      - name: com.jgsudhakar.springboot.log4j.iface
+        level: info
+        AppenderRef:
+          - ref: LogToConsole
+          - ref: LogToServiceFile
     Root:
       level: error
       AppenderRef:

@@ -26,6 +26,27 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "PrintLogs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9090/sblog4j/api/loggers",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"sblog4j",
+						"api",
+						"loggers"
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
