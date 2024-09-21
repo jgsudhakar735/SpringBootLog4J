@@ -1,0 +1,2 @@
+[INFO ] 2024-09-21 19:39:19.735 [http-nio-9090-exec-6] EmplServiceImpl - Start Fetching all employees from Repository 
+[INFO ] 2024-09-21 19:39:19.849 [http-nio-9090-exec-6] EmplServiceImpl - End Fetching all employees from Repository 

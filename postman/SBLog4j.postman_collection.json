@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "9f4f4f96-d5a1-40e4-9c87-3e9f8d9e4a5f",
+		"name": "SBLog4j",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35148216"
+	},
+	"item": [
+		{
+			"name": "GetEmp",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9090/sblog4j/api/emp",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"sblog4j",
+						"api",
+						"emp"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

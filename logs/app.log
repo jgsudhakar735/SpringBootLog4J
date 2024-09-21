@@ -1,0 +1,8 @@
+[INFO ] 2024-09-21 19:32:37.996 [restartedMain] SpringBootLog4JApplication - Starting SpringBootLog4JApplication using Java 17.0.1 with PID 8276 (D:\Learning\GitHub\SpringBootLog4J\target\classes started by Sanvi Sriyaan in D:\Learning\GitHub\JavaTutorial)
+[DEBUG] 2024-09-21 19:32:37.996 [restartedMain] SpringBootLog4JApplication - Running with Spring Boot v3.3.2, Spring v6.1.11
+[INFO ] 2024-09-21 19:32:37.996 [restartedMain] SpringBootLog4JApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2024-09-21 19:32:40.650 [restartedMain] SpringBootLog4JApplication - Started SpringBootLog4JApplication in 2.962 seconds (process running for 3.807)
+[INFO ] 2024-09-21 19:33:06.960 [http-nio-9090-exec-1] EmpResource - Started Fetching All Employees
+[INFO ] 2024-09-21 19:33:06.965 [http-nio-9090-exec-1] EmplServiceImpl - Start Fetching all employees from Repository 
+[INFO ] 2024-09-21 19:33:07.102 [http-nio-9090-exec-1] EmplServiceImpl - End Fetching all employees from Repository 
+[INFO ] 2024-09-21 19:33:07.102 [http-nio-9090-exec-1] EmpResource - ENd Fetching All Employees. Total Employees Size :: 4 
